@@ -1,0 +1,4 @@
+.pytest_cache
+.vscode
+bitvector_demo.py
+tempCodeRunnerFile.py
